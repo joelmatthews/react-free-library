@@ -1,0 +1,12 @@
+
+.cart-button {
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    background-color: #c3c3c3;
+    transition: all 0.25s ease-out;
+}
+
+.cart-button:hover {
+    transform: scale(1.25);
+    cursor: pointer;
+}

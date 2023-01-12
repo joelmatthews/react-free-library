@@ -1,0 +1,17 @@
+.book-list {
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+}
+
+.error {
+    color: red;
+    font-weight: 300;
+    text-align: center;
+}
+
+.loading {
+    color: black;
+    font-weight: 300;
+    text-align: center;
+}

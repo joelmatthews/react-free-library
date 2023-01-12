@@ -1,0 +1,12 @@
+.books {
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+}
+
+.books h2 {
+    text-align: center;
+    text-decoration: underline;
+}
